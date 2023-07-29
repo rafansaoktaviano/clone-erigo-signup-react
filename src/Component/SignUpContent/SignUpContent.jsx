@@ -4,7 +4,7 @@ import Button from "../Button/Button";
 import GoogleSignIn from "../GoogleSignIn/GoogleSignIn";
 export default function SignUpContent(props) {
   return (
-    <div className="w-full px-[100px] h-full">
+    <div className="w-full px-[100px] h-full mt-3 mt-4">
       <div className="border-[1px] flex h-max ">
         <div className="w-2/4 ">
           <div className="h-[50px] flex items-center justify-center font-bold bg-zinc-100">
