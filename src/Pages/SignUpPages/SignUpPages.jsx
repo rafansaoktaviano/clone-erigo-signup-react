@@ -4,7 +4,7 @@ import FormGroup from "../../Component/FormGroup/FormGroup";
 import SignUpContent from "../../Component/SignUpContent/SignUpContent";
 export default function SignUpPages() {
   return (
-    <div>
+    <div className="grid">
       <Nav/>
       <SignUpContent
         text1="RETURNING CUSTOMER"

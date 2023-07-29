@@ -1,0 +1,15 @@
+
+@media only screen and (max-width: 768px){
+    .test {
+
+        flex-direction: column;
+    }
+    .kiri {
+        width: 100%;
+    }
+    .kanan {
+        width: 100%;
+    }
+}
+
+
