@@ -1,10 +1,11 @@
 import React from "react";
 
-export default function Button(props) {
+const Button =  (props) => {
   return (
-    
-    <button className={`px-[12px] py-[24px] border-[3px] ${props.btncss}`}>
-      {props.btnName}
+    <button type="submit" className={`px-[12px] py-[24px] border-[3px] ${props.css}`} onClick={props.onclick} {...props}>
+      {props.label}
     </button>
   );
-}
+};
+
+export default Button;

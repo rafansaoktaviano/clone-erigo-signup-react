@@ -1,0 +1,274 @@
+{
+  "users": [
+    {
+      "firstname": "Rafansa",
+      "lastname": "Oktaviano",
+      "email": "rafansaoktaviano@gmail.com",
+      "password": "Abc12345",
+      "id": 1
+    },
+    {
+      "firstname": "andre",
+      "lastname": "andre",
+      "email": "andre@gmail.com",
+      "password": "asddsa",
+      "id": 2
+    },
+    {
+      "firstname": "rafansa",
+      "lastname": "caraka",
+      "email": "caraka@gmail.com",
+      "password": "asddsa",
+      "id": 3
+    },
+    {
+      "firstname": "flad",
+      "lastname": "arman",
+      "email": "fladarman@gmail.com",
+      "password": "asddsa",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "productName": "Erigo T-Shirt Museum Patah Hati Misery Loves Company Black",
+      "image": [
+        "https://erigostore.co.id/cdn/shop/files/id-11134201-7qul9-libacce72npy3a.jpg?v=1687491669",
+        "https://erigostore.co.id/cdn/shop/files/id-11134201-7qul9-libacce72npy3a.jpg?v=1687491669"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp. 125.000",
+      "category": 1,
+      "id": 1
+    },
+    {
+      "productName": "Erigo T-Shirt The Magic Trio Maroon",
+      "image": [
+        "https://erigostore.co.id/cdn/shop/products/5682478ffc30c1905ae82532a6f7a3a0.jpg?v=1647952542",
+        "https://erigostore.co.id/cdn/shop/products/c823da72b415c71dcd3ba3456ba77ad6.jpg?v=1647952542"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp. 250.000",
+      "category": 1,
+      "id": 2
+    },
+    {
+      "productName": "Erigo T-Shirt The Magic Trio Maroon",
+      "image": [
+        "https://erigostore.co.id/cdn/shop/products/5682478ffc30c1905ae82532a6f7a3a0.jpg?v=1647952542",
+        "https://erigostore.co.id/cdn/shop/products/c823da72b415c71dcd3ba3456ba77ad6.jpg?v=1647952542"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp. 250.000",
+      "category": 1,
+      "id": 3
+    },
+    {
+      "productName": "Erigo T-Shirt Chasing Sunset Black",
+      "image": [
+        "https://erigostore.co.id/cdn/shop/products/TSHIRT-CHASING-SUNSET-BLACK_3.jpg?v=1660119735",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp. 250.000",
+      "category": 1,
+      "id": 4
+    },
+    {
+      "productName": "Erigo T-Shirt Yokota Air Base Black Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/f4476bfe-fae5-4a81-81b8-e1fc76516ed6_360x.jpg?v=1686192462",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp. 250.000",
+      "category": 1,
+      "id": 5
+    },
+    {
+      "productName": "Erigo T-Shirt Basic Maroon White Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/a08042a34930a0c2716078822be40702_360x.jpg?v=1684515144",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 6
+    },
+    {
+      "productName": "Erigo T-Shirt Basic Black White Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/844209629fe3bdab9aea7a3f2bcd9731_360x.jpg?v=1684736204",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 7
+    },
+    {
+      "productName": "Erigo T-Shirt Basic Black White Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/844209629fe3bdab9aea7a3f2bcd9731_360x.jpg?v=1684736204",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 7
+    },
+    {
+      "productName": "Erigo T-Shirt Basic Navy White Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/11ba8e9b5e963bd572ab45286aa0bbbb_360x.jpg?v=1685965813",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 9
+    },
+    {
+      "productName": "Erigo T-Shirt Basic Mustard White Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/88b4bb5226ace69e998fd67446bd0279_360x.jpg?v=1684515011",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 10
+    },
+    {
+      "productName": "Erigo T-Shirt Waverly Black Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/b8f48712b3928ba971ffb40c6205f892_360x.jpg?v=1684514995",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 11
+    },
+    {
+      "productName": "Erigo T-Shirt Basic Cream White Unisex",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0607/2841/0296/files/fce5adaf0bf29fe4a65f6eb8cd4ae13a_360x.jpg?v=1684515004",
+        "https://erigostore.co.id/cdn/shop/products/T-SHIRT-CHASING-SUNSET-BLACK-2-819x1024.jpg?v=1660119773"
+      ],
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stocks": [
+        4,
+        5,
+        7
+      ],
+      "price": "Rp 69.000",
+      "category": 1,
+      "id": 11
+    }
+  ]
+}
